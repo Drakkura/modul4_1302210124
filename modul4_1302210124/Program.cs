@@ -9,7 +9,7 @@ namespace modul4_1302210124 {
             string kode = getKodeBuah.getkodeBuah(kodeBuah.buah.Semangka);
             Console.WriteLine("Nama Buah: " + kodeBuah.buah.Semangka + " Kode Buah: " + kode);
             string kode1 = getKodeBuah.getkodeBuah(kodeBuah.buah.Pisang);
-            Console.WriteLine("Nama Buah: " + kodeBuah.buah.Pisang + " Kode Buah: " + kode);
+            Console.WriteLine("Nama Buah: " + kodeBuah.buah.Pisang + " Kode Buah: " + kode1);
         }
     }
 
